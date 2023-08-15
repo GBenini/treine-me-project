@@ -31,6 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Treine.me é uma pagina simples para seu negócio fitness, com informações e contatos.
 
+Você pode visualizar o projeto através [DESSE LINK](https://gbenini.github.io/treine-me-project/) 👀
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/v6bc9F9qTGgPcFs5VUjkwd/Explorer---Projeto-02-(Copy)?type=design&node-id=0-1&mode=design&t=r9Tox5G4OHiYgQjC-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
